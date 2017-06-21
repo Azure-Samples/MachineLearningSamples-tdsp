@@ -23,7 +23,7 @@ The TDSP data science lifecycle is composed of four major stages that are execut
 
 The above should ideally be followed by customer acceptance. 
 
-For reference, see a much more [detailed description of the TDSP life-cycle](https://github.com/Azure/Microsoft-TDSP/blob/master/Docs/team-data-science-process-lifecycle-detail.md).
+For reference, see a much more [detailed description of the TDSP life-cycle](https://github.com/Azure/Microsoft-TDSP/blob/master/Docs/team-data-science-process-lifecycle-detail.md). This also provides additional documentation templates that are associated with each phase of the TDSP lifecycle.
 
 ## Project planning and execution
 If you would like to follow [Visual Studio Online (Team Services)](https://azure.microsoft.com/en-us/services/visual-studio-team-services/) for planning, management and execution of your Data Science projects, detailed instructions are provided [here](https://github.com/Azure/Microsoft-TDSP/blob/master/Docs/team-data-science-process-project-execution.md).
