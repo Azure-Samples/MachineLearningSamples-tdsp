@@ -8,6 +8,24 @@ Here we provide a version of TDSP for instantiation from **Vienna**.
 ## Information about TDSP in Vienna
 When you instantiate TDSP from Vienna, you get the TDSP-recommended standardized directory structure, and document templates for project execution and delivery. The final delivery report to the customer or client is named FinalDeliverable.md. 
 
+## Team Data Science Process Lifecycle 
+
+Team Data Science Process (TDSP) provides a recommended lifecycle that you can use to structure your data science projects. Basically, the lifecycle defines the steps that projects executing using the TDSP follow from start to finish. If you are using another lifecycle such as [CRISP-DM](https://wikipedia.org/wiki/Cross_Industry_Standard_Process_for_Data_Mining), [KDD](https://wikipedia.org/wiki/Data_mining#Process) or your own custom process that is working well in your organization, you can still use TDSP in the context of those development lifecycles. It is to be noted that this lifecycle is in the context of data science projects that lead to building data products and intelligent applications that include predictive analytics using machine learning or artificial intelligence (AI) models that are productionized. Exploratory data science projects and adhoc / on-off analytics projects can use this process but some steps of this lifecycle may not be needed.    
+
+Here is a depiction of the TDSP lifecycle. 
+
+![TDSP_LIFECYCLE](./Images/team-data-science-process-overview/tdsp-lifecycle.png) 
+
+The TDSP data science lifecycle is composed of four major stages that are executed iteratively. This includes:
+
+* Business Understanding
+* Data Acquisition and Understanding
+* Modeling
+* Deployment
+
+The above should ideally be followed by customer acceptance
+
+
 ## Project planning and execution
 If you would like to follow [Visual Studio Online (Team Services)](https://azure.microsoft.com/en-us/services/visual-studio-team-services/) for planning, management and execution of your Data Science projects, detailed instructions are provided [here](https://github.com/Azure/Microsoft-TDSP/blob/master/Docs/team-data-science-process-project-execution.md).
 
