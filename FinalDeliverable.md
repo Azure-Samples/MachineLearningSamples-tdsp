@@ -1,4 +1,4 @@
-# Executive Summary: (Insert Customer & Use Case Title)
+# Final Deliverable: (Insert Customer/Client & Use Case Title)
 
 [comment]: # (This document is intended to capture the use case summary for this engagement. An executive summary should contain a brief overview of the project, but not every detail. Only the current summary should be captured here and this should be edited over time to reflect the latest details.)
 
@@ -22,8 +22,8 @@ Phases (milestones), timeline, short description of what we'll do in each phase.
 ### Personnel
 [comment]: # (Who is assigned to this project)
 
-* **Microsoft**: Project lead, Data scientist(s), Data engineer(s), Account manager
-* **Client**: Data administrator, Business contact
+* **Data Science Group**: Project lead, Data scientist(s), Data engineer(s), Account manager
+* **Customer or Client**: Data administrator, Business contact
 * **Others (e.g. Partners)**: Project lead, Engineer
 
 ### Metrics
@@ -58,9 +58,7 @@ Phases (milestones), timeline, short description of what we'll do in each phase.
 [comment]: # (If there is a substantial change in the customer's business workflow, make a before/after diagram showing the data flow.)
 
 ## Reference Documents
-* CRM Entry - add link
-* VSO Entry - add link
+* Version control repository - add link
 * OneNote or other locations with important documents - add link
-* [Documents from the Customer](./Docs/CustomerDocs)
+* [Documents from the Customer or Client](./Docs/CustomerDocs)
 * [Presentations](./Docs/Presentations)
-[comment]: # (If scoping document is used, also include link:"* [More details of the scope of work](./Docs/Scoping.md)")

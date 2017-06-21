@@ -1,4 +1,4 @@
-# Learnings: (Insert Customer & Use Case Title)
+# Project Learning Notes: (Insert Customer & Use Case Title)
 
 ## 	Project Execution
 [comment]: # (Learnings around the customer engagement process)
