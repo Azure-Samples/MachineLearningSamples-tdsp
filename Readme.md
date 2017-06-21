@@ -6,11 +6,11 @@ TDSP is an agile, iterative, data science methodology to improve collaboration a
 Here we provide a version of TDSP for instantiation from **Vienna**.
 
 ## Information about TDSP in Vienna
-When you instantiate TDSP from Vienna, you get the TDSP-recommended standardized directory structure, and document templates for project execution and delivery.
+When you instantiate TDSP from Vienna, you get the TDSP-recommended standardized directory structure, and document templates for project execution and delivery. The final delivery report to the customer or client is 
 
 ## Release Notes
 
-This is an **early preview (Sept 2016)** release of TDSP. We are continuously improving TDSP based on our further accumulated experience, and customer feedback. Stay tuned for future releases. 
+This is an **early preview (Sept 2016)** release of [TDSP](https://github.com/Azure/Microsoft-TDSP). We are continuously improving TDSP based on our further accumulated experience, and customer feedback. Stay tuned for future releases. 
 
 ## Ask Questions. 
 
