@@ -1,5 +1,4 @@
 # Team Data Science Process from Microsoft
-
 This repository contains the **Vienna** instantiation of the [**Team Data Science Process (TDSP) from Microsoft**](https://github.com/Azure/Microsoft-TDSP). 
 TDSP is an agile, iterative, data science methodology to improve collaboration and team learning. It is supported through a lifecycle definition, standard project structure, artifact templates, and tools for productive data science. 
 
@@ -22,17 +21,16 @@ The TDSP data science lifecycle is composed of four major stages that are execut
 * Modeling
 * Deployment
 
-The above should ideally be followed by customer acceptance
+The above should ideally be followed by customer acceptance. 
 
+For reference, see a much more [detailed description of the TDSP life-cycle](https://github.com/Azure/Microsoft-TDSP/blob/master/Docs/team-data-science-process-lifecycle-detail.md).
 
 ## Project planning and execution
 If you would like to follow [Visual Studio Online (Team Services)](https://azure.microsoft.com/en-us/services/visual-studio-team-services/) for planning, management and execution of your Data Science projects, detailed instructions are provided [here](https://github.com/Azure/Microsoft-TDSP/blob/master/Docs/team-data-science-process-project-execution.md).
 
 ## Release Notes
-
 This is an **early preview (Sept 2016)** release of [TDSP](https://github.com/Azure/Microsoft-TDSP). We are continuously improving TDSP based on our further accumulated experience, and customer feedback. Stay tuned for future releases. 
 
 ## Ask Questions. 
-
 We would love to hear back from you. Should you have any questions or suggestions, please create a new discussion thread on the [Issues Tab](https://github.com/Azure/Microsoft-TDSP/issues).
 
