@@ -13,7 +13,7 @@ When you instantiate the TDSP from Vienna, you get the TDSP-recommended standard
 
 - modify the documentation templates provided here for your project
 - execute your project
-- prepare the Data Science deliverables for your client or customer, including the FinalDeliverable.md report.
+- prepare the Data Science deliverables for your client or customer, including the ProjectReport.md report.
 
 We provide [instructions on how to instantiate and use TDSP in Vienna](https://github.com/hning86/ViennaSample-TDSP/blob/master/Docs/Using-TDSP-in-Vienna.md).
 
