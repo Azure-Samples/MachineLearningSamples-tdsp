@@ -19,7 +19,7 @@ TDSP uses the data science lifecycle to structure projects. The lifecycle define
 
 Here is a depiction of the TDSP lifecycle. 
 
-![TDSP_LIFECYCLE](./Images/tdsp-lifecycle.png) 
+![TDSP_LIFECYCLE](./Images/tdsp-lifecycle.jpg) 
 
 The TDSP data science lifecycle is composed of four major stages that are executed iteratively. This includes:
 
