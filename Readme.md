@@ -34,11 +34,11 @@ These stages should, ideally, be followed by customer acceptance for successful 
 
 If you are using a different lifecycle schema, such as [CRISP-DM](https://wikipedia.org/wiki/Cross_Industry_Standard_Process_for_Data_Mining), [KDD](https://wikipedia.org/wiki/Data_mining#Process) or your own custom process that is working well in your organization, you can still use the TDSP in the context of those development lifecycles. 
 
-For reference, see a more [detailed description of the TDSP life-cycle](https://github.com/Azure/Microsoft-TDSP/blob/master/Docs/team-data-science-process-lifecycle-detail.md). That version also provides additional documentation templates that are associated with each phase of the TDSP lifecycle.
+For reference, see a more [detailed description of the TDSP life-cycle](https://github.com/Azure/Microsoft-TDSP/blob/master/Docs/lifecycle-detail.md). That version also provides additional documentation templates that are associated with each phase of the TDSP lifecycle.
 
 
 ## Project planning and execution
-To deploy [Visual Studio Online (Team Services)](https://azure.microsoft.com/en-us/services/visual-studio-team-services/) for planning, managing and executing your data science projects, detailed instructions are provided [here](https://github.com/Azure/Microsoft-TDSP/blob/master/Docs/team-data-science-process-project-execution.md).
+To deploy [Visual Studio Online (Team Services)](https://azure.microsoft.com/en-us/services/visual-studio-team-services/) for planning, managing and executing your data science projects, detailed instructions are provided [here](https://github.com/Azure/Microsoft-TDSP/blob/master/Docs/project-execution.md).
 
 ## Release Notes
 This is an **early preview (Sept 2016)** release of [TDSP](https://github.com/Azure/Microsoft-TDSP). We are continuously improving TDSP based on customer experience and feedback. Stay tuned for future releases. 
