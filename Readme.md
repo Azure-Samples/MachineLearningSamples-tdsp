@@ -16,7 +16,7 @@ When you instantiate the TDSP from Vienna, you get the TDSP-recommended standard
 
 We provide [instructions on how to instantiate and use TDSP in Vienna](https://github.com/hning86/ViennaSample-TDSP/blob/master/Docs/Using-TDSP-in-Vienna.md).
 
-## Team Data Science Process Lifecycle 
+## The Data Science Lifecycle 
 TDSP uses the data science lifecycle to structure projects. The lifecycle defines the steps that a project typically must execute, from start to finish. This lifecycle is valid for data science projects that build data products and intelligent applications that include predictive analytics. The goal is to incorporate machine learning or artificial intelligence (AI) models into commercial products. Exploratory data science projects or ad hoc/on-off analytics projects can also use this process, but in this case some steps of this lifecycle may not be needed.    
 
 Here is a depiction of the TDSP lifecycle. 
@@ -36,13 +36,17 @@ If you are using a different lifecycle schema, such as [CRISP-DM](https://wikipe
 
 For reference, see a more [detailed description of the TDSP life-cycle](https://github.com/Azure/Microsoft-TDSP/blob/master/Docs/lifecycle-detail.md). That version also provides additional documentation templates that are associated with each phase of the TDSP lifecycle.
 
+## Documenting your project
+Refer to [TDSP doumentation templates](https://github.com/Azure/Azure-TDSP-ProjectTemplate) to see how you can document your project for efficient collaboration and reproducibility. In the current Vienna TDSP documentation template, we recommend that you include all the information in the [ProjectReport](./ProjectReport.md) file. This template needs to be filled out with information that is specific to your project. 
+
+In addition to the [ProjectReport](./ProjectReport.md), which serves as the primary project document, we provide another template, [ProjectLearnings](./Docs/ProjectLearnings.md), to include any learnings and information, which may not be included in the primary project document, but still useful to document. 
 
 ## Project planning and execution
 To deploy [Visual Studio Online (Team Services)](https://azure.microsoft.com/en-us/services/visual-studio-team-services/) for planning, managing and executing your data science projects, detailed instructions are provided [here](https://github.com/Azure/Microsoft-TDSP/blob/master/Docs/project-execution.md).
 
-## Release Notes
-This is an **early preview (Sept 2016)** release of [TDSP](https://github.com/Azure/Microsoft-TDSP). We are continuously improving TDSP based on customer experience and feedback. Stay tuned for future releases. 
+## Release notes
+This is an **early preview (Sept 2016)** release of [TDSP](https://github.com/Azure/Microsoft-TDSP). We are continuously improving TDSP based on customer experience and feedback, and releasing new features. Refer to [TDSP](https://github.com/Azure/Microsoft-TDSP) page for more information. 
 
-## Ask Questions. 
+## Ask questions. 
 We would love to hear back from your own experience with the TDSP. Should you have any questions or suggestions, please create a new discussion thread on the [Issues Tab](https://github.com/Azure/Microsoft-TDSP/issues).
 
