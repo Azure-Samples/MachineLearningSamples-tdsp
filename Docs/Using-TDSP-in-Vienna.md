@@ -26,7 +26,7 @@ After your new project is created (usually in a few seconds), examine its struct
 
 The template is not populated with any code, you will obverve, in the Code folder (and sub-folders). You are expected to populate the Code folder and its sub-folders with code files that are necessary for executing your project. The [ProjectReport.md](../ProjectReport.md) is a template that should be directly modified with information relevant to your project. The ProjectReport.md comes with a set of questions which help you to fill out the information on all four stages of the [Data Science Life Cycle](https://github.com/Azure/Microsoft-TDSP/blob/master/Docs/lifecycle-detail.md).
 
-## Documenting your project
+### Documenting your project
 Refer to [TDSP doumentation templates](https://github.com/Azure/Azure-TDSP-ProjectTemplate) to see how you can document your project for efficient collaboration and reproducibility. In the current Vienna TDSP documentation template, we recommend that you include all the information in the [ProjectReport](../ProjectReport.md) file. This template needs to be filled out with information that is specific to your project. 
 
 In addition to the [ProjectReport](../ProjectReport.md), which serves as the primary project document, we provide another template, [ProjectLearnings](./ProjectLearnings.md), to include any learnings and information, which may not be included in the primary project document, but still useful to document. 
