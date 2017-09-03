@@ -1,4 +1,4 @@
-# Instructions on how to instantiate and use TDSP in Vienna
+# Instructions on how to instantiate and use TDSP in Azure ML Workbench ("Vienna")
 
 This document provides the instructions on how to instantiate and use Team Data Science Process (TDSP) project structure and templates in Vienna. 
 
