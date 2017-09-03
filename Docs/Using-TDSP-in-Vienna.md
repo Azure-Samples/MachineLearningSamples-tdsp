@@ -17,7 +17,7 @@ While creating the new project, on the form please specify all the parameters an
 ![Fill in project information](./Images/Instantiation_Step2.JPG) 
 
 #### Examine the TDSP project structure
-After your new project is created (usually in a few seconds), examine its structure. This structure is derived from the TDSP structure published [here](https://github.com/Azure/Azure-TDSP-ProjectTemplate), but with some simplifications. For example, several of the document templates are merged into one markdown, namely, [ProjectReport.md](../ProjectReport.md).
+After your new project is created (usually in a few seconds), examine its structure. This structure is derived from the TDSP structure published [here](https://github.com/Azure/Azure-TDSP-ProjectTemplate), with some simplifications. For example, several of the document templates are merged into one markdown, namely, [ProjectReport.md](../ProjectReport.md). Note however, all the aspects of standardized documentation for business understanding, the stages of the TDSP lifecyle, data location, definition, and architecture are contained in this documentation template.
 
 ![Fill in project information](./Images/Instantiation_Step3.JPG) 
 
