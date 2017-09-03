@@ -1,4 +1,4 @@
-# Team Data Science Process from Microsoft
+ # Team Data Science Process from Microsoft
 
 This repository contains an instantiation of the [**Team Data Science Process (TDSP) from Microsoft**](https://github.com/Azure/Microsoft-TDSP) for project **Vienna**. The TDSP is an agile, iterative, data science methodology designed to improve team collaboration and learning. It facilitates better coordinated and more productive data science enterprises by providing:
 
@@ -7,7 +7,7 @@ This repository contains an instantiation of the [**Team Data Science Process (T
 - artifact templates for reporting
 - tools to assist with data science tasks
 
-## Information about TDSP in Vienna
+## Information about TDSP in Azure ML Workbench ("Vienna")
 When you instantiate the TDSP from Vienna, you get the TDSP-recommended standardized directory structure and document templates for project execution and delivery. The workflow then consists of the following steps:
 
 - modify the documentation templates provided here for your project
