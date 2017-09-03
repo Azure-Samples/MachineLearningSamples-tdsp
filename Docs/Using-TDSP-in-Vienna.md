@@ -1,6 +1,16 @@
 # Instructions on how to instantiate and use TDSP in Vienna
 
-This document provides the instructions on how to instantiate and use TDSP in Vienna. 
+This document provides the instructions on how to instantiate and use Team Data Science Process (TDSP) project structure and templates in Vienna. 
+
+### First, what is TDSP and why should you use TDSP structure and templates in Vienna?
+[TDSP](https://github.com/Azure/Microsoft-TDSP) is an agile, iterative, data science process for executing and delivering advanced analytics solutions. It is designed to improve collaboration and efficiency of data science teams in enterprise organizations. It is supported through four key components:
+1. a standard data science lifecycle definition [[link]](https://github.com/Azure/Microsoft-TDSP/blob/master/Docs/lifecycle-detail.md)
+2. a standardized project structure (project documentation and reporting templates) [[link]](https://github.com/Azure/Azure-TDSP-ProjectTemplate)
+3. infrastructure for project execution (compute and storage infrastructure, code repositories, etc.)
+4. tools for data science project tasks (collaborative version control and code review, data exploration and modeling, work planning. etc.)
+
+Standardization of data science projects and their artifacts is an important goal and deliverable of TDSP. To that end, we had previously released a [GitHub repository for the TDSP project structure and templates](https://github.com/Azure/Azure-TDSP-ProjectTemplate). To date, it was not possible to instantiate the TDSP structure and templates within a data science tool. To address this issue, and facilitate easy instantiation of TDSP structure and documentation templates, we have now enabled TDSP instantiation in Vienna. This will provide the benefits of standardization of data science projects in terms of structure and documentation to a data science team that is using Vienna.
+
 
 ### Instantiating TDSP strucute and templates from Vienna template gallery
 Once you open the Vienna application, the following are the step-by-step instructions that you need to take to create a new project using TDSP structure, having TDSP documentation templates:
