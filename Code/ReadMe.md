@@ -5,7 +5,7 @@ This directory should contain all the source code for the project. Some structur
 It is recommended to maintain the three main folders as "01_DataPrep", "02_Modeling", and "03_Deployment" and follow the steps of the TDSP data science process as outlined [(link)](https://github.com/Azure/Microsoft-TDSP). However, if this does not work for your project such as a big data project without a model or the code is contained in a single process, you are free to restructure folders within "Code" to suit your needs, as long as you number the folders numerically according to the stages of the process to which you approach the problem, e.g. "01_DataPrep" and "02_Deployment" if there contains no model.
 
 Please delete the comments above and use this ReadMe file to describe the structure of your code.
-### Code/01_DataPrep
+### Code/01_Data_Acquisition_and_Understanding
 [comment]: # (Include brief description of what was done here.)
 
 ### Code/02_Modeling
