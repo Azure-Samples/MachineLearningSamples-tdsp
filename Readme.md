@@ -41,7 +41,14 @@ Refer to [TDSP doumentation templates](https://github.com/Azure/Azure-TDSP-Proje
 
 In addition to the [ProjectReport](./ProjectReport.md), which serves as the primary project document, we provide another template, [ProjectLearnings](./Docs/ProjectLearnings.md), to include any learnings and information, which may not be included in the primary project document, but still useful to document. 
 
-Documents received from a customer can be stored in .\Docs\CustomerDocs. Documents prepared for sharing information with a customer (e.g. ProjectReport, graphs, tables etc.) can be stored in .\Docs\DeliveralbeDocs. 
+Documents received from a customer can be stored in .\Docs\CustomerDocs. Documents prepared for sharing information with a customer (e.g. ProjectReport, graphs, tables etc.) can be stored in .\Docs\DeliveralbeDocs.
+
+## Project folder structure
+The TDSP project template contains following top-level folders:
+1. **Code**: Contains code
+2. **Docs**: Contains neccessary documentation about the project
+3. **Sample_Data**: Contains **SAMPLE (small)** data that can be used to test code. Not for full or large data-sets
+
 
 ## Project planning and execution
 To deploy [Visual Studio Online (Team Services)](https://azure.microsoft.com/en-us/services/visual-studio-team-services/) for planning, managing and executing your data science projects, detailed instructions are provided [here](https://github.com/Azure/Microsoft-TDSP/blob/master/Docs/project-execution.md).
