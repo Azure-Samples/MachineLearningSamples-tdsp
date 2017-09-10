@@ -7,14 +7,14 @@ This repository contains an instantiation of the [**Team Data Science Process (T
 - artifact templates for reporting
 - tools to assist with data science tasks
 
-## Information about TDSP in Azure ML Workbench ("Vienna")
+## Information about TDSP in Azure ML Workbench
 When you instantiate the TDSP from Vienna, you get the TDSP-recommended standardized directory structure and document templates for project execution and delivery. The workflow then consists of the following steps:
 
 - modify the documentation templates provided here for your project
 - execute your project
 - prepare the Data Science deliverables for your client or customer, including the ProjectReport.md report.
 
-We provide [instructions on how to instantiate and use TDSP in Vienna](https://github.com/hning86/ViennaSample-TDSP/blob/master/Docs/Using-TDSP-in-Vienna.md).
+We provide [instructions on how to instantiate and use TDSP in Azure ML Workbench](https://github.com/hning86/ViennaSample-TDSP/blob/master/Docs/Using-TDSP-in-Vienna.md).
 
 ## The Data Science Lifecycle 
 TDSP uses the data science lifecycle to structure projects. The lifecycle defines the steps that a project typically must execute, from start to finish. This lifecycle is valid for data science projects that build data products and intelligent applications that include predictive analytics. The goal is to incorporate machine learning or artificial intelligence (AI) models into commercial products. Exploratory data science projects or ad hoc/on-off analytics projects can also use this process, but in this case some steps of this lifecycle may not be needed.    
