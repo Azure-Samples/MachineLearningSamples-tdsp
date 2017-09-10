@@ -47,7 +47,7 @@ Documents received from a customer can be stored in .\Docs\CustomerDocs. Documen
 The TDSP project template contains following top-level folders:
 1. **Code**: Contains code
 2. **Docs**: Contains neccessary documentation about the project
-3. **Sample_Data**: Contains **SAMPLE (small)** data that can be used to test code. Not for full or large data-sets
+3. **Sample_Data**: Contains **SAMPLE (small)** data that can be used for early development or testing. Typically, not more than several Mbs. Not for full or large data-sets.
 
 
 ## Project planning and execution
