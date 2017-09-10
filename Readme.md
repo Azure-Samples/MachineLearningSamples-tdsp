@@ -14,7 +14,7 @@ When you instantiate the TDSP from Vienna, you get the TDSP-recommended standard
 - execute your project
 - prepare the Data Science deliverables for your client or customer, including the ProjectReport.md report.
 
-We provide [instructions on how to instantiate and use TDSP in Azure ML Workbench](https://github.com/hning86/ViennaSample-TDSP/blob/master/Docs/Using-TDSP-in-Vienna.md).
+We provide [instructions on how to instantiate and use TDSP in Azure ML Workbench](./Docs/Using-TDSP-in-Vienna.md).
 
 ## The Data Science Lifecycle 
 TDSP uses the data science lifecycle to structure projects. The lifecycle defines the steps that a project typically must execute, from start to finish. This lifecycle is valid for data science projects that build data products and intelligent applications that include predictive analytics. The goal is to incorporate machine learning or artificial intelligence (AI) models into commercial products. Exploratory data science projects or ad hoc/on-off analytics projects can also use this process, but in this case some steps of this lifecycle may not be needed.    
