@@ -1,4 +1,4 @@
-# Code/DataPrep
+# Code/01_Data_Acquisition_and_Understanding
 
 For source code files associated with data preparation. Data preparation includes one or more of the following steps (not exhaustive):
 
