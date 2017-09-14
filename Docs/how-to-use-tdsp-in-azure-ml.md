@@ -41,10 +41,11 @@ Standardization of the structure, lifecycle, and documentation of data science p
 We had previously released a [GitHub repository for the TDSP project structure and templates](https://github.com/Azure/Azure-TDSP-ProjectTemplate) to help achieve these objectives. But it was not possible, until now, to instantiate the TDSP structure and templates within a data science tool. It is now possible to create an Azure Machine Learning Workbench project that is instantiated with TDSP structure and documentation templates by using the following procedure: 
 
 ## Things to remember *before* creating a new project
-These are the things you should keep in mind while creating a new project:
+These are the things you should keep in mind *before* creating a new project:
 * Project and its contents are required to be less 25 Mb in size. This includes all docs (primarily markdowns), code, and sample_data. The project is intended to have small files to facilitate execution and version control in Azure ML Workbench. 
 * The Sample\_Data folder is only for small data files (less than 5 Mb) with which you can test your code or do early development.
 * Storing files such as Office Word, PowerPoint etc. can increase the size of Docs folder substantially. Find a [SharePoint](https://products.office.com/en-us/sharepoint/collaboration), or other collaborative resource to store such files.
+* For handling large files and outputs in Azure ML Workbench, read [this](http://aka.ms/aml-largefiles).
 
 ## Instantiating TDSP structure and templates from the Azure ML Workbench gallery template
 
