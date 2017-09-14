@@ -54,7 +54,6 @@ Open Azure Machine Learning Workbench. Under **Projects** on top left, click on 
 
 ### Create a new TDSP-structured project
 
-
 Specify the parameters and information in the relevant boxes:
 
 - Project name
@@ -70,14 +69,15 @@ Then in the **Search** box, type in *TDSP*. When the **TDSP Template** shows up,
 
 ## Examine the TDSP project structure
 
-After your new project is created, you can examine its structure. It contains all of the aspects of standardized documentation for business understanding, the stages of the TDSP lifecycle, data location, definition, and architecture in this documentation template. This structure is derived from the TDSP structure published [here](https://github.com/Azure/Azure-TDSP-ProjectTemplate), with some simplifications. For example, several of the document templates are merged into one markdown, namely, [ProjectReport](https://github.com/amlsamples/tdsp/blob/master/ProjectReport.md). 
+After your new project is created, you can examine its structure. It contains all of the aspects of standardized documentation for business understanding, the stages of the TDSP lifecycle, data location, definition, and architecture in this documentation template. This structure is derived from the TDSP structure published [here](https://github.com/Azure/Azure-TDSP-ProjectTemplate), with some modifications. For example, several of the document templates are merged into one markdown, namely, [ProjectReport](https://github.com/amlsamples/tdsp/blob/master/ProjectReport.md). 
 
 ![Fill in project information](./Images/instantiation-3.png) 
 
 
 ## Use the TDSP structure and templates
 
-The template is not populated with any code in the **Code** folder or its sub-folders. You are expected to populate the these folders with the code files that are necessary for executing your project. The [ProjectReport](https://github.com/amlsamples/tdsp/blob/master/ProjectReport.md) file is a template that should be directly modified with information relevant to your project. It comes with a set of questions that help you fill out the information for each of the four stages of the [Team Data Science Process lifecycle](https://github.com/Azure/Microsoft-TDSP/blob/master/Docs/lifecycle-detail.md).
+The template is not populated with any code in the **Code** folder. You are expected to populate the these folders with the code files that are necessary for executing your project. The [ProjectReport](https://github.com/amlsamples/tdsp/blob/master/ProjectReport.md) file is a template that should be directly modified with information relevant to your project. It comes with a set of questions that help you fill out the information for each of the four stages of the [Team Data Science Process lifecycle](https://github.com/Azure/Microsoft-TDSP/blob/master/Docs/lifecycle-detail.md).
+
 
 ## Document your project
 

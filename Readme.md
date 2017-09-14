@@ -1,4 +1,9 @@
- # Team Data Science Process from Microsoft
+# DASHBOARD
+
+### This is the project dashboard where you put key project information (e.g. a project summary, with relevant links). In an actual project, you will replace the rest of the content with project specific summary. For the template, the Readme contains information about Team Data Science Process (TDSP)
+<hr>
+
+## Team Data Science Process from Microsoft
 
 This repository contains an instantiation of the [**Team Data Science Process (TDSP) from Microsoft**](https://github.com/Azure/Microsoft-TDSP) for project **Vienna**. The TDSP is an agile, iterative, data science methodology designed to improve team collaboration and learning. It facilitates better coordinated and more productive data science enterprises by providing:
 
@@ -21,7 +26,8 @@ TDSP uses the data science lifecycle to structure projects. The lifecycle define
 
 Here is a depiction of the TDSP lifecycle. 
 
-![TDSP_LIFECYCLE](./Images/tdsp-lifecycle.jpg) 
+<img src="./Images/tdsp-lifecycle.jpg" width="800" height="600">
+
 
 The TDSP data science lifecycle is composed of four major stages that are executed iteratively. This includes:
 
