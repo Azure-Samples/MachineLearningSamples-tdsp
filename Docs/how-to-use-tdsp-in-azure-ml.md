@@ -100,3 +100,6 @@ We also provide another [ProjectLearnings](https://github.com/amlsamples/tdsp/bl
 ## Next steps
 
 To facilitate your understanding on how the TDSP structure and templates can be used in Azure Machine Learning Workbench projects, we provide several worked-out project examples in the documentation for Azure ML Workbench.
+
+- For a tutorial showing how create a TDSP project in Azure Machine Learning Workbench, see [Team Data Science Process Tutorial: Classify incomes from US Census data in Azure Machine Learning Workbench](tutorial-classifying-uci-incomes.md) 
+- For a sample that uses a TDSP-instantiated project in Azure Machine Learning Workbench, see [Bio-medical entity recognition using Natural Language Processing with Deep Learning](sample-tdsp-nlp.md)
