@@ -77,6 +77,13 @@ Then in the **Search** box, type in *TDSP*. When the **TDSP Template** shows up,
 
 After your new project is created, you can examine its structure. It contains all of the aspects of standardized documentation for business understanding, the stages of the TDSP lifecycle, data location, definition, and architecture in this documentation template. This structure is derived from the TDSP structure published [here](https://github.com/Azure/Azure-TDSP-ProjectTemplate), with some modifications. For example, several of the document templates are merged into one markdown, namely, [ProjectReport](https://github.com/amlsamples/tdsp/blob/master/ProjectReport.md). 
 
+### Project folder structure
+The TDSP project template contains following top-level folders:
+1. **Code**: Contains code
+2. **docs**: Contains neccessary documentation about the project (e.g. Markdown files)
+3. **Sample_Data**: Contains **SAMPLE (small)** data that can be used for early development or testing. Typically, not more than several (5) Mbs. Not for full or large data-sets.
+4. **Images**: Contain images for Markdown documents. It is NOT a folder for storing image files for training.
+
 <img src="./Images/instantiation-3.png" width="800" height="600">
 
 
@@ -101,5 +108,5 @@ We also provide another [ProjectLearnings](https://github.com/amlsamples/tdsp/bl
 
 To facilitate your understanding on how the TDSP structure and templates can be used in Azure Machine Learning Workbench projects, we provide several worked-out project examples in the documentation for Azure ML Workbench.
 
-- For a tutorial showing how create a TDSP project in Azure Machine Learning Workbench, see [Team Data Science Process Tutorial: Classify incomes from US Census data in Azure Machine Learning Workbench](tutorial-classifying-uci-incomes.md) 
-- For a sample that uses a TDSP-instantiated project in Azure Machine Learning Workbench, see [Bio-medical entity recognition using Natural Language Processing with Deep Learning](sample-tdsp-nlp.md)
+- For a tutorial showing how create a TDSP project in Azure Machine Learning Workbench, see [Team Data Science Process Tutorial: Classify incomes from US Census data in Azure Machine Learning Workbench](https://github.com/Azure/MachineLearningSamples-TDSPUCIAdultIncome) 
+- For a sample that uses a TDSP-instantiated project in Azure Machine Learning Workbench, see [Bio-medical entity recognition using Natural Language Processing with Deep Learning](https://github.com/Azure/MachineLearningSamples-BiomedicalEntityExtraction)
