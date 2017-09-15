@@ -1,4 +1,4 @@
-# DASHBOARD
+# TDSP Project Dashboard
 
 ### This is the project dashboard where you put key project information (e.g. a project summary, with relevant links). In your actual project, replace the rest of the content with project specific summary.
 
