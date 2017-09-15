@@ -73,7 +73,7 @@ The template is not populated with any code in the **Code** folder, or docs in t
 
 For an example of how a project structure can look like during execution or after completion is given below.
 
-<img src="./Images/instantiation-4.png" width="700" height="450">
+<img src="./Images/instantiation-4.png" width="750" height="500">
 
 ## Documenting Your Project
 
