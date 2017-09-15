@@ -22,7 +22,7 @@ We had previously released a [GitHub repository for the TDSP project structure a
 
 ## Things To Note *Before* Creating A New Project
 These are the things you should keep in mind *before* creating a new project:
-* Project and its contents are required to be less 25 Mb in size (except the contents in the 'docs' folder). This includes code and sample_data, and other files/folders in the project root directory. The project is intended to have small files to facilitate execution and version control in Azure Machine Learning. 
+* Contents (other than what is there in the 'docs' folder) are required to be less than 25 Mb in size. This includes code, and sample_data. The project is intended to have small files to facilitate execution and version control in Azure Machine Learning.
 * The Sample\_Data folder is only for small data files (less than 5 Mb) with which you can test your code or do early development.
 * Storing files such as Office Word, PowerPoint etc. can increase the size of Docs folder substantially. Find a [SharePoint](https://products.office.com/en-us/sharepoint/collaboration), or other collaborative resource to store such files.
 * For handling large files and outputs in Azure Machine Learning, read [this](http://aka.ms/aml-largefiles).
@@ -73,7 +73,7 @@ The template is not populated with any code in the **Code** folder, or docs in t
 
 For an example of how a project structure can look like during execution or after completion is given below.
 
-<img src="./Images/instantiation-4.png" width="700" height="500">
+<img src="./Images/instantiation-4.png" width="700" height="450">
 
 ## Documenting Your Project
 
