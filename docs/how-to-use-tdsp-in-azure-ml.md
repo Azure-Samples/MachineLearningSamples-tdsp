@@ -1,6 +1,6 @@
 # Structure Projects in Azure Machine Learning with Team Data Science Process (TDSP) Templates
 
-This document provides instructions on how to create a data science projects in Azure Machine Learning Workbench with Team Data Science Process (TDSP) templates that structure projects for collaboration and reproducibility. 
+This document provides instructions on how to create a data science projects in Azure Machine Learning with Team Data Science Process (TDSP) templates that structure projects for collaboration and reproducibility. 
 
 
 ## What Is Team Data Science Process?
@@ -16,24 +16,24 @@ For a more complete discussion of the TDSP, see the [Team Data Science Process o
 
 ## Why Should You Use TDSP Structure and Templates?
 
-Standardization of the structure, lifecycle, and documentation of data science projects is key to facilitating effective collaboration on data science teams. Creating Azure Machine Learning Workbench projects with the TDSP template provides a framework for coordinated teamwork.
+Standardization of the structure, lifecycle, and documentation of data science projects is key to facilitating effective collaboration on data science teams. Creating Azure Machine Learning projects with the TDSP template provides a framework for coordinated teamwork.
 
-We had previously released a [GitHub repository for the TDSP project structure and templates](https://github.com/Azure/Azure-TDSP-ProjectTemplate) to help achieve these objectives. But it was not possible, until now, to instantiate the TDSP structure and templates within a data science tool. It is now possible to create an Azure Machine Learning Workbench project that is instantiated with TDSP structure and documentation templates by using the following procedure: 
+We had previously released a [GitHub repository for the TDSP project structure and templates](https://github.com/Azure/Azure-TDSP-ProjectTemplate) to help achieve these objectives. But it was not possible, until now, to instantiate the TDSP structure and templates within a data science tool. It is now possible to create an Azure Machine Learnin project that is instantiated with TDSP structure and documentation templates by using the following procedure: 
 
 ## Things To Note *Before* Creating A New Project
 These are the things you should keep in mind *before* creating a new project:
-* Project and its contents are required to be less 25 Mb in size (except the contents in the 'docs' folder). This includes code and sample_data, and other files/folders in the project root directory. The project is intended to have small files to facilitate execution and version control in Azure Machine Learning Workbench. 
+* Project and its contents are required to be less 25 Mb in size (except the contents in the 'docs' folder). This includes code and sample_data, and other files/folders in the project root directory. The project is intended to have small files to facilitate execution and version control in Azure Machine Learning. 
 * The Sample\_Data folder is only for small data files (less than 5 Mb) with which you can test your code or do early development.
 * Storing files such as Office Word, PowerPoint etc. can increase the size of Docs folder substantially. Find a [SharePoint](https://products.office.com/en-us/sharepoint/collaboration), or other collaborative resource to store such files.
-* For handling large files and outputs in Azure Machine Learning Workbench, read [this](http://aka.ms/aml-largefiles).
+* For handling large files and outputs in Azure Machine Learning, read [this](http://aka.ms/aml-largefiles).
 
-## Instantiating TDSP Structure and Templates From the Azure Machine Learning Workbench Template Gallery
+## Instantiating TDSP Structure and Templates From the Azure Machine Learning Template Gallery
 
 To create a new project with the Team Data Science Process structure and documentation templates, complete the following procedures: 
 
 ### Click on "New Project"
 
-Open Azure Machine Learning Workbench. Under **Projects** on top left, click on **+** and select **New Project** to create a new project.
+Open Azure Machine Learning. Under **Projects** on top left, click on **+** and select **New Project** to create a new project.
 
 <img src="./Images/instantiation-1.png" width="800" height="600">
 
@@ -77,14 +77,14 @@ For an example of how a project structure can look like during execution or afte
 
 ## Documenting Your Project
 
-Refer to [TDSP documentation templates](https://github.com/Azure/Azure-TDSP-ProjectTemplate) for help documenting your project. In the current Azure Machine Learning Workbench TDSP documentation template, we recommend that you include all the information in the [ProjectReport](https://github.com/amlsamples/tdsp/blob/master/ProjectReport.md) file. This template should be filled out with information that is specific to your project. 
+Refer to [TDSP documentation templates](https://github.com/Azure/Azure-TDSP-ProjectTemplate) for help documenting your project. In the current Azure Machine Learning TDSP documentation template, we recommend that you include all the information in the [ProjectReport](https://github.com/amlsamples/tdsp/blob/master/ProjectReport.md) file. This template should be filled out with information that is specific to your project. 
 
 We also provide another [ProjectLearnings](https://github.com/amlsamples/tdsp/blob/master/Docs/ProjectLearnings.md) template to include any information not be included in the primary project document, but that is still useful to document. 
 
 
 ## Next Steps
 
-To facilitate your understanding on how the TDSP structure and templates can be used in Azure Machine Learning Workbench projects, we provide several worked-out project examples in the documentation for Azure Machine Learning Workbench.
+To facilitate your understanding on how the TDSP structure and templates can be used in Azure Machine Learning projects, we provide several worked-out project examples in the documentation for Azure Machine Learning.
 
-- For a tutorial showing how create a TDSP project in Azure Machine Learning Workbench, see [Team Data Science Process Tutorial: Classify incomes from US Census data in Azure Machine Learning Workbench](https://github.com/Azure/MachineLearningSamples-TDSPUCIAdultIncome) 
-- For a sample that uses Deep Learning in NLP in a TDSP-instantiated project in Azure Machine Learning Workbench, see [Bio-medical entity recognition using Natural Language Processing with Deep Learning](https://github.com/Azure/MachineLearningSamples-BiomedicalEntityExtraction)
+- For a tutorial showing how create a TDSP project in Azure Machine Learning, see [Team Data Science Process Tutorial: Classify incomes from US Census data in Azure Machine Learning](https://github.com/Azure/MachineLearningSamples-TDSPUCIAdultIncome) 
+- For a sample that uses Deep Learning in NLP in a TDSP-instantiated project in Azure Machine Learning, see [Bio-medical entity recognition using Natural Language Processing with Deep Learning](https://github.com/Azure/MachineLearningSamples-BiomedicalEntityExtraction)
