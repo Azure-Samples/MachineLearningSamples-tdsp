@@ -1,23 +1,3 @@
----
-title: Structure Projects in Azure Machine Learning with Team Data Science Process (TDSP) Templates  | Microsoft Docs
-description: How to instantiate Team Data Science Process (TDSP) templates in Azure Machine Learning that structure projects for collaboration.
-services: machine-learning
-documentationcenter: ''
-author: bradsev
-manager: cgronlun
-editor: cgronlun
-
-ms.assetid: 
-ms.service: machine-learning
-ms.workload: data-services
-ms.tgt_pltfrm: na
-ms.devlang: na
-ms.topic: article
-ms.date: 09/10/2017
-ms.author: bradsev
-
----
-
 # Structure Projects in Azure Machine Learning with Team Data Science Process (TDSP) Templates
 
 This document provides instructions on how to create a data science projects in Azure Machine Learning Workbench with Team Data Science Process (TDSP) templates that structure projects for collaboration and reproducibility. 
@@ -94,7 +74,6 @@ The template is not populated with any code in the **Code** folder, or docs in t
 For an example of how a project structure can look like during execution or after completion is given below.
 
 <img src="./Images/instantiation-4.png" width="700" height="500">
-
 
 ## Documenting Your Project
 
