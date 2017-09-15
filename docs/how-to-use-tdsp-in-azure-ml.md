@@ -84,7 +84,7 @@ The TDSP project template contains following top-level folders:
 3. **Sample_Data**: Contains **SAMPLE (small)** data that can be used for early development or testing. Typically, not more than several (5) Mbs. Not for full or large data-sets.
 4. **Images**: Contain images for Markdown documents. It is NOT a folder for storing image files for training.
 
-<img src="./Images/instantiation-3.png" width="800" height="600">
+<img src="./Images/instantiation-3.png" width="800" height="500">
 
 
 ## Using The TDSP Structure and Templates
