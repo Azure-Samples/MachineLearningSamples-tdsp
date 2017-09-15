@@ -1,7 +1,6 @@
 # DASHBOARD
 
-### This is the project dashboard where you put key project information (e.g. a project summary, with relevant links). In an actual project, you will replace the rest of the content with project specific summary. For the template, the Readme contains information about Team Data Science Process (TDSP)
-<hr>
+### This is the project dashboard where you put key project information (e.g. a project summary, with relevant links). In your actual project, replace the rest of the content with project specific summary.
 
 ## Team Data Science Process from Microsoft
 
