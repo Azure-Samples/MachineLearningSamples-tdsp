@@ -51,11 +51,12 @@ Documents received from a customer can be stored in .\Docs\CustomerDocs. Documen
 
 ## Project Folder Structure
 The TDSP project template contains following top-level folders:
-1. **Code**: Contains code
+1. **code**: Contains code
 2. **docs**: Contains necessary documentation about the project
-3. **Sample_Data**: Contains **SAMPLE (small)** data that can be used for early development or testing. Typically, not more than several (5) Mbs. Not for full or large data-sets.
-4. **Images**: Contain images for Markdown documents. It is NOT a folder for storing image files for training.
+3. **sample_data**: Contains **SAMPLE (small)** data that can be used for early development or testing. Typically, not more than several (5) Mbs. Not for full or large data-sets.
 
+**NOTE:** 
+Please make sure other than the readme.md file, all documentation-related content (text, markdowns, images, other document files) that are NOT used during the project execution must reside in the folder named “docs” (all lowercase). This is a special folder ignored by Azure Machine Learning execution so that contents in this folder do not get copied to compute target unnecessarily. Objects in this folder also don’t count towards the 25 MB cap for project size, so you can store large image files needed in your documentation for example. They are still tracked by Git through Run History. 
 
 ## Project Planning And Execution
 To deploy [Visual Studio Online (Team Services)](https://azure.microsoft.com/en-us/services/visual-studio-team-services/) for planning, managing and executing your data science projects, detailed instructions are provided [here](https://github.com/Azure/Microsoft-TDSP/blob/master/Docs/project-execution.md).
