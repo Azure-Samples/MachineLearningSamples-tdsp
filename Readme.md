@@ -61,7 +61,7 @@ The TDSP project template contains following top-level folders:
 To deploy [Visual Studio Online (Team Services)](https://azure.microsoft.com/en-us/services/visual-studio-team-services/) for planning, managing and executing your data science projects, detailed instructions are provided [here](https://github.com/Azure/Microsoft-TDSP/blob/master/Docs/project-execution.md).
 
 ## Release Notes
-This is an **early preview (Sept 2016)** release of [TDSP](https://github.com/Azure/Microsoft-TDSP). We are continuously improving TDSP based on customer experience and feedback, and releasing new features. Refer to [TDSP](https://github.com/Azure/Microsoft-TDSP) page for more information. 
+Release of this template is associated wtih the preview release of Azure Machine Learning (September 2017). We are continuously improving TDSP based on customer experience and feedback, and releasing new features. Refer to [TDSP](https://github.com/Azure/Microsoft-TDSP) page for more information. 
 
 ## Ask Questions
 We would love to hear back from your own experience with the TDSP. Should you have any questions or suggestions, create a new discussion thread on the [Issues Tab](https://github.com/Azure/Microsoft-TDSP/issues).
