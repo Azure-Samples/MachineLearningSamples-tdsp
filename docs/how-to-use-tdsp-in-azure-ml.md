@@ -35,7 +35,7 @@ To create a new project with the Team Data Science Process structure and documen
 
 Open Azure Machine Learning. Under **Projects** on top left, click on **+** and select **New Project** to create a new project.
 
-<img src="./Images/instantiation-1.png" width="800" height="600">
+<img src="./images/instantiation-1.png" width="800" height="600">
 
 
 ### Creating a new TDSP-structured project
@@ -50,7 +50,7 @@ Specify the parameters and information in the relevant boxes:
 
 Then in the **Search** box, type in *TDSP*. When the **TDSP Template** shows up, click on it to select that template. Then click the **Create** button to create your new project with the TDSP structure.
 
-<img src="./Images/instantiation-2.png" width="800" height="500">
+<img src="./images/instantiation-2.png" width="800" height="500">
 
 
 ## Examine The TDSP Project Structure
@@ -64,7 +64,7 @@ The TDSP project template contains following top-level folders:
 3. **Sample_Data**: Contains **SAMPLE (small)** data that can be used for early development or testing. Typically, not more than several (5) Mbs. Not for full or large data-sets.
 4. **Images**: Contain images for Markdown documents. It is NOT a folder for storing image files for training.
 
-<img src="./Images/instantiation-3.png" width="800" height="500">
+<img src="./images/instantiation-3.png" width="800" height="500">
 
 
 ## Using The TDSP Structure and Templates
@@ -73,7 +73,7 @@ The template is not populated with any code in the **Code** folder, or docs in t
 
 For an example of how a project structure can look like during execution or after completion is given below.
 
-<img src="./Images/instantiation-4.png" width="750" height="500">
+<img src="./images/instantiation-4.png" width="750" height="500">
 
 ## Documenting Your Project
 
