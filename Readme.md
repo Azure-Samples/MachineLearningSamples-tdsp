@@ -26,7 +26,7 @@ TDSP uses the data science lifecycle to structure projects. The lifecycle define
 
 Here is a depiction of the TDSP lifecycle. 
 
-<img src="./docs/Images/tdsp-lifecycle.jpg" width="800" height="600">
+<img src="./docs/images/tdsp-lifecycle.jpg" width="800" height="600">
 
 
 The TDSP data science lifecycle is composed of four major stages that are executed iteratively. This includes:
@@ -43,7 +43,7 @@ If you are using a different lifecycle schema, such as [CRISP-DM](https://wikipe
 For reference, see a more [detailed description of the TDSP life-cycle](https://github.com/Azure/Microsoft-TDSP/blob/master/Docs/lifecycle-detail.md). That version also provides additional documentation templates that are associated with each phase of the TDSP lifecycle.
 
 ## Documenting Your Project
-Refer to [TDSP documentation templates](https://github.com/Azure/Azure-TDSP-ProjectTemplate) to see how you can document your project for efficient collaboration and reproducibility. In the current Azure Machine Learning TDSP documentation template, we recommend that you include all the information in the [ProjectReport](./ProjectReport.md) file. This template should be filled out with information that is specific to your project. 
+Refer to [TDSP documentation templates](https://github.com/Azure/Azure-TDSP-ProjectTemplate) to see how you can document your project for efficient collaboration and reproducibility. In the current Azure Machine Learning TDSP documentation template, we recommend that you include all the information in the [ProjectReport](./docs/Deliverabe/ProjectReport.md) file. This template should be filled out with information that is specific to your project. 
 
 In addition to the [ProjectReport](./ProjectReport.md), which serves as the primary project document, we provide another template, [ProjectLearnings](./Docs/ProjectLearnings.md), to include any learnings and information, which may not be included in the primary project document, but still useful to document. 
 
