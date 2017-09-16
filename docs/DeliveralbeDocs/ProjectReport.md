@@ -60,5 +60,3 @@ Phases (milestones), timeline, short description of what we'll do in each phase.
 ## Reference Documents
 * Version control repository - add link
 * OneNote or other locations with important documents - add link
-* [Documents from the Customer or Client](./Docs/CustomerDocs)
-* [Customer Deliverables](./Docs/DeliveralbeDocs)

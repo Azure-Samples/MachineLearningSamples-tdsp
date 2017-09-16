@@ -1,4 +1,4 @@
-## Docs/Images
+## docs/Images
 
 This directory is where we store images used in other documents. Please use subdirectories as applicable to keep images and media organized.
 
