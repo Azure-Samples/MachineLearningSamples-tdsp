@@ -7,13 +7,13 @@ It is recommended to maintain the three main folders as "01\_Data\_Acquisition\_
 However, if this does not work for your project such as a big data project without a model or the code is contained in a single process, you are free to restructure folders within "Code" to suit your needs, as long as you number the folders numerically according to the stages of the process to which you approach the problem, e.g. "01\_DataPrep" and "02\_Deployment" if there contains no model.
 
 Please delete the comments above and use this ReadMe file to describe the structure of your code.
-### Code/01_Data_Acquisition_and_Understanding
+### Code/01\_data\_acquisition\_and\_understanding
 [comment]: # (Include brief description of what was done here.)
 
-### Code/02_Modeling
+### Code/02_modeling
 [comment]: # (Include brief description of what was done here.)
 
-### Code/03_Deployment
+### Code/03_deployment
 [comment]: # (Include brief description of what was done here.)
 
 [comment]: # (Coding styles of Python and R)
