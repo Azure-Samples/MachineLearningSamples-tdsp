@@ -50,7 +50,7 @@ Specify the parameters and information in the relevant boxes:
 
 Then in the **Search** box, type in *TDSP*. When the **TDSP Template** shows up, click on it to select that template. Then click the **Create** button to create your new project with the TDSP structure.
 
-<img src="./images/instantiation-2.png" width="800" height="500">
+<img src="./images/instantiation-2.png" width="700" height="500">
 
 
 ## Examine The TDSP Project Structure
@@ -64,7 +64,7 @@ The TDSP project template contains following top-level folders:
 3. **Sample_Data**: Contains **SAMPLE (small)** data that can be used for early development or testing. Typically, not more than several (5) Mbs. Not for full or large data-sets.
 4. **Images**: Contain images for Markdown documents. It is NOT a folder for storing image files for training.
 
-<img src="./images/instantiation-3.png" width="700" height="500">
+<img src="./images/instantiation-3.png" width="750" height="500">
 
 
 ## Using The TDSP Structure and Templates
