@@ -43,9 +43,9 @@ If you are using a different lifecycle schema, such as [CRISP-DM](https://wikipe
 For reference, see a more [detailed description of the TDSP life-cycle](https://github.com/Azure/Microsoft-TDSP/blob/master/Docs/lifecycle-detail.md). That version also provides additional documentation templates that are associated with each phase of the TDSP lifecycle.
 
 ## Documenting Your Project
-Refer to [TDSP documentation templates](https://github.com/Azure/Azure-TDSP-ProjectTemplate) to see how you can document your project for efficient collaboration and reproducibility. In the current Azure Machine Learning TDSP documentation template, we recommend that you include all the information in the [ProjectReport](./docs/deliverable_docs/ProjectReport.md) file. This template should be filled out with information that is specific to your project. 
+Refer to [TDSP documentation templates](https://github.com/Azure/Azure-TDSP-ProjectTemplate) to see how you can document your project for efficient collaboration and reproducibility. In the current Azure Machine Learning TDSP documentation template, we recommend that you include all the information in the [ProjectReport](https://github.com/amlsamples/tdsp/blob/master/docs/deliveralbe_docs/ProjectReport.md) file. This template should be filled out with information that is specific to your project. 
 
-In addition to the [ProjectReport](./docs/deliverable_docs/ProjectReport.md), which serves as the primary project document, we provide another template, [ProjectLearnings](./docs/ProjectLearnings.md), to include any learnings and information, which may not be included in the primary project document, but still useful to document. 
+In addition to the [ProjectReport](https://github.com/amlsamples/tdsp/blob/master/docs/deliveralbe_docs/ProjectReport.md), which serves as the primary project document, we provide another template, [ProjectLearnings](https://github.com/amlsamples/tdsp/blob/master/docs/ProjectLearnings.md), to include any learnings and information, which may not be included in the primary project document, but still useful to document. 
 
 Documents received from a customer can be stored in .\docs\dustomer\_cocs. Documents prepared for sharing information with a customer (for example, ProjectReport, graphs, tables etc.) can be stored in .\docs\deliveralbe\_docs.
 
