@@ -16,7 +16,7 @@ For a more complete discussion of the TDSP, see the [Team Data Science Process o
 ## Why Should You Use TDSP Structure and Templates?
 Standardization of the structure, lifecycle, and documentation of data science projects is key to facilitating effective collaboration on data science teams. Creating Azure Machine Learning projects with the TDSP template provides a framework for coordinated teamwork.
 
-We had previously released a [GitHub repository for the TDSP project structure and templates](https://github.com/Azure/Azure-TDSP-ProjectTemplate) to help achieve these objectives. But it was not possible, until now, to instantiate the TDSP structure and templates within a data science tool. It is now possible to create an Azure Machine Learnin project that is instantiated with TDSP structure and documentation templates by using the following procedure: 
+We had previously released a [GitHub repository for the TDSP project structure and templates](https://github.com/Azure/Azure-TDSP-ProjectTemplate) to help achieve these objectives. But it was not possible, until now, to instantiate the TDSP structure and templates within a data science tool. It is now possible to create an Azure Machine Learning project that is instantiated with TDSP structure and documentation templates by using the following procedure: 
 
 ## Things To Note *Before* Creating A New Project
 These are the things you should note or review keep in mind *before* creating a new project:
@@ -26,7 +26,7 @@ These are the things you should note or review keep in mind *before* creating a 
 * Storing files such as Office Word, PowerPoint etc. can increase the size of Docs folder substantially. We advise you to find a collaborative Wiki, [SharePoint](https://products.office.com/en-us/sharepoint/collaboration), or other collaborative resource to store such files.
 * For handling large files and outputs in Azure Machine Learning, read [this](http://aka.ms/aml-largefiles).
 
-**NOTE:** Please make sure other than the readme.md file, all documentation-related content (text, markdowns, images, other document files) that are NOT used during the project execution must reside in the folder named “docs” (all lowercase). This is a special folder ignored by Azure Machine Learning execution so that contents in this folder do not get copied to compute target unnecessarily. Objects in this folder also don’t count towards the 25 MB cap for project size, so you can store large image files needed in your documentation for example. They are still tracked by Git through Run History. 
+**NOTE:** Make sure other than the readme.md file, all documentation-related content (text, markdowns, images, other document files) that are NOT used during the project execution must reside in the folder named “docs” (all lowercase). This is a special folder ignored by Azure Machine Learning execution so that contents in this folder do not get copied to compute target unnecessarily. Objects in this folder also don’t count towards the 25-MB cap for project size, so you can store large image files needed in your documentation for example. They are still tracked by Git through Run History. 
 
 ## Instantiating TDSP Structure and Templates From the Azure Machine Learning Template Gallery
 To create a new project with the Team Data Science Process structure and documentation templates, complete the following procedures: 
@@ -52,7 +52,7 @@ Then in the **Search** box, type in *TDSP*. When the **TDSP Template** shows up,
 
 
 ## Examine The TDSP Project Structure
-After your new project is created, you can examine its structure (left panel in figure blelow). It contains all of the aspects of standardized documentation for business understanding, the stages of the TDSP lifecycle, data location, definition, and architecture in this documentation template. This structure is derived from the TDSP structure published [here](https://github.com/Azure/Azure-TDSP-ProjectTemplate), with some modifications. For example, several of the document templates are merged into one markdown, namely, [ProjectReport](https://github.com/amlsamples/tdsp/blob/master/docs/deliveralbe_docs/ProjectReport.md). 
+After your new project is created, you can examine its structure (left panel in figure below). It contains all of the aspects of standardized documentation for business understanding, the stages of the TDSP lifecycle, data location, definition, and architecture in this documentation template. This structure is derived from the TDSP structure published [here](https://github.com/Azure/Azure-TDSP-ProjectTemplate), with some modifications. For example, several of the document templates are merged into one markdown, namely, [ProjectReport](https://github.com/amlsamples/tdsp/blob/master/docs/deliveralbe_docs/ProjectReport.md). 
 
 ### Project Folder Structure
 The TDSP project template contains following top-level folders:
@@ -66,7 +66,7 @@ The TDSP project template contains following top-level folders:
 ## Using The TDSP Structure and Templates
 The template is not populated with any code in the **code** folder, or docs in the **docs** folder. You are expected to populate these folders with the code and document files that are necessary for executing and delivering your project. The [ProjectReport](https://github.com/amlsamples/tdsp/blob/master/docs/deliveralbe_docs/ProjectReport.md) file is a template that should be directly modified with information relevant to your project. It comes with a set of questions that help you fill out the information for each of the four stages of the [Team Data Science Process lifecycle](https://github.com/Azure/Microsoft-TDSP/blob/master/Docs/lifecycle-detail.md).
 
-For an example of how a project structure can look like during execution or after completion is given below (left panel in figure blelow). This is from the [Team Data Science Process Sample Project: Classify incomes from US Census data in Azure Machine Learning](https://github.com/Azure/MachineLearningSamples-TDSPUCIAdultIncome).
+For an example of how a project structure can look like during execution or after completion is given below (left panel in figure below). This is from the [Team Data Science Process Sample Project: Classify incomes from US Census data in Azure Machine Learning](https://github.com/Azure/MachineLearningSamples-TDSPUCIAdultIncome).
 
 <img src="./images/instantiation-4.png" width="900" height="800">
 
