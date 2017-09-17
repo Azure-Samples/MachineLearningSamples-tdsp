@@ -61,10 +61,9 @@ After your new project is created, you can examine its structure. It contains al
 
 ### Project Folder Structure
 The TDSP project template contains following top-level folders:
-1. **Code**: Contains code
+1. **dode**: Contains code
 2. **docs**: Contains necessary documentation about the project (for example, Markdown files)
-3. **Sample_Data**: Contains **SAMPLE (small)** data that can be used for early development or testing. Typically, not more than several (5) Mbs. Not for full or large data-sets.
-4. **Images**: Contain images for Markdown documents. It is NOT a folder for storing image files for training.
+3. **sample_data**: Contains **SAMPLE (small)** data that can be used for early development or testing. Typically, not more than several (5) Mbs. Not for full or large data-sets.
 
 <img src="./images/instantiation-3.png" width="750" height="500">
 
@@ -79,10 +78,12 @@ For an example of how a project structure can look like during execution or afte
 
 ## Documenting Your Project
 
-Refer to [TDSP documentation templates](https://github.com/Azure/Azure-TDSP-ProjectTemplate) for help documenting your project. In the current Azure Machine Learning TDSP documentation template, we recommend that you include all the information in the [ProjectReport](https://github.com/amlsamples/tdsp/blob/master/ProjectReport.md) file. This template should be filled out with information that is specific to your project. 
+Refer to [TDSP documentation templates](https://github.com/Azure/Azure-TDSP-ProjectTemplate) for documenting your project. In the current Azure Machine Learning TDSP documentation template, we recommend that you include all the information in the [ProjectReport](https://github.com/amlsamples/tdsp/blob/master/docs/deliveralbe_docs/ProjectReport.md) file. This template should be filled out with information that is specific to your project. 
 
-We also provide another [ProjectLearnings](https://github.com/amlsamples/tdsp/blob/master/Docs/ProjectLearnings.md) template to include any information not be included in the primary project document, but that is still useful to document. 
+We also provide another [ProjectLearnings](https://github.com/amlsamples/tdsp/blob/master/docs/ProjectLearnings.md) template to include any information not be included in the primary project document, but that is still useful to document. 
 
+### Example Project Report
+An example project report can be found [here](https://github.com/Azure/MachineLearningSamples-TDSPUCIAdultIncome/blob/master/docs/deliveralbe_docs/ProjectReport.md). This is the projet report for the [US Income Classification sample project](https://github.com/Azure/MachineLearningSamples-TDSPUCIAdultIncome), which shows how the TDSP template can be instantiated and used for a data sciene project.
 
 ## Next Steps
 
