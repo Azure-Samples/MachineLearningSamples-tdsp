@@ -54,7 +54,7 @@ To create a new project with the Team Data Science Process structure and documen
 ### Click on "New Project"
 Open Azure Machine Learning. Under **Projects** on top left, click on **+** and select **New Project** to create a new project.
 
-<img src="./media/how-to-use-tdsp-in-azure-ml/instantiation-1.png" width="800" height="600">
+<img src="./images/instantiation-1.png" width="800" height="600">
 
 
 ### Creating a new TDSP-structured project
@@ -68,7 +68,7 @@ Specify the parameters and information in the relevant boxes:
 
 Then in the **Search** box, type in *TDSP*. When the **TDSP Template** shows up, click on it to select that template. Then click the **Create** button to create your new project with the TDSP structure. If you provide an empty Git repository during creating the project (in the appropriate box), then that repository will be populated with the project structure and contents after creation of the project.
 
-<img src="./media/how-to-use-tdsp-in-azure-ml/instantiation-2.png" width="700" height="500">
+<img src="./images/instantiation-2.png" width="700" height="500">
 
 
 ## Examine The TDSP Project Structure
@@ -80,7 +80,7 @@ The TDSP project template contains following top-level folders:
 2. **docs**: Contains necessary documentation about the project (for example, Markdown files)
 3. **sample_data**: Contains **SAMPLE (small)** data that can be used for early development or testing. Typically, not more than several (5) Mbs. Not for full or large data-sets.
 
-<img src="./media/how-to-use-tdsp-in-azure-ml/instantiation-3.png" width="750" height="500">
+<img src="./images/instantiation-3.png" width="750" height="500">
 
 
 ## Using The TDSP Structure and Templates
@@ -88,7 +88,7 @@ The template is not populated with any code in the **code** folder, or docs in t
 
 For an example of how a project structure can look like during execution or after completion is given below (left panel in figure below). This is from the [Team Data Science Process Sample Project: Classify incomes from US Census data in Azure Machine Learning](https://github.com/Azure/MachineLearningSamples-TDSPUCIAdultIncome).
 
-<img src="./media/how-to-use-tdsp-in-azure-ml/instantiation-4.png" width="900" height="800">
+<img src="./images/instantiation-4.png" width="900" height="800">
 
 ## Documenting Your Project
 Refer to [TDSP documentation templates](https://github.com/Azure/Azure-TDSP-ProjectTemplate) for documenting your project. In the current Azure Machine Learning TDSP documentation template, we recommend that you include all the information in the [ProjectReport](https://aka.ms/tdspamlgithubrepoprojectreport) file. This template should be filled out with information that is specific to your project. 
