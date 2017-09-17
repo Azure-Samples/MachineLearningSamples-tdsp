@@ -65,7 +65,7 @@ The TDSP project template contains following top-level folders:
 ## Using The TDSP Structure and Templates
 The template is not populated with any code in the **code** folder, or docs in the **docs** folder. You are expected to populate these folders with the code and document files that are necessary for executing and delivering your project. The [ProjectReport](https://github.com/amlsamples/tdsp/blob/master/docs/deliveralbe_docs/ProjectReport.md) file is a template that should be directly modified with information relevant to your project. It comes with a set of questions that help you fill out the information for each of the four stages of the [Team Data Science Process lifecycle](https://github.com/Azure/Microsoft-TDSP/blob/master/Docs/lifecycle-detail.md).
 
-For an example of how a project structure can look like during execution or after completion is given below (left panel in figure blelow).
+For an example of how a project structure can look like during execution or after completion is given below (left panel in figure blelow). This is from the [Team Data Science Process Sample Project: Classify incomes from US Census data in Azure Machine Learning](https://github.com/Azure/MachineLearningSamples-TDSPUCIAdultIncome).
 
 <img src="./images/instantiation-4.png" width="900" height="800">
 
@@ -80,5 +80,5 @@ An example project report can be found [here](https://github.com/Azure/MachineLe
 ## Next Steps
 To facilitate your understanding on how the TDSP structure and templates can be used in Azure Machine Learning projects, we provide several worked-out project examples in the documentation for Azure Machine Learning.
 
-- For a tutorial showing how create a TDSP project in Azure Machine Learning, see [Team Data Science Process Tutorial: Classify incomes from US Census data in Azure Machine Learning](https://github.com/Azure/MachineLearningSamples-TDSPUCIAdultIncome) 
+- For a sample showing how create a TDSP project in Azure Machine Learning, see [Team Data Science Process Sample Project: Classify incomes from US Census data in Azure Machine Learning](https://github.com/Azure/MachineLearningSamples-TDSPUCIAdultIncome) 
 - For a sample that uses Deep Learning in NLP in a TDSP-instantiated project in Azure Machine Learning, see [Bio-medical entity recognition using Natural Language Processing with Deep Learning](https://github.com/Azure/MachineLearningSamples-BiomedicalEntityExtraction)
