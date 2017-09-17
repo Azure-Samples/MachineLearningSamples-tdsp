@@ -20,7 +20,7 @@ We had previously released a [GitHub repository for the TDSP project structure a
 
 ## Things To Note *Before* Creating A New Project
 These are the things you should note or review keep in mind *before* creating a new project:
-* TDSP Azure Machine Learning [Template](https://aka.ms/tdspamlgithubrepo)
+* TDSP Azure Machine Learning [Template](https://aka.ms/tdspamlgithubrepo).
 * Contents (other than what is there in the 'docs' folder) are required to be less than 25 Mb in size. See **NOTE** below.
 * The sample\_data folder is only for small data files (less than 5 Mb) with which you can test your code or do early development.
 * Storing files such as Office Word, PowerPoint etc. can increase the size of Docs folder substantially. We advise you to find a collaborative Wiki, [SharePoint](https://products.office.com/en-us/sharepoint/collaboration), or other collaborative resource to store such files.
