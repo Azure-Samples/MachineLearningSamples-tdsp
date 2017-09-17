@@ -19,10 +19,11 @@ Standardization of the structure, lifecycle, and documentation of data science p
 We had previously released a [GitHub repository for the TDSP project structure and templates](https://github.com/Azure/Azure-TDSP-ProjectTemplate) to help achieve these objectives. But it was not possible, until now, to instantiate the TDSP structure and templates within a data science tool. It is now possible to create an Azure Machine Learnin project that is instantiated with TDSP structure and documentation templates by using the following procedure: 
 
 ## Things To Note *Before* Creating A New Project
-These are the things you should keep in mind *before* creating a new project:
+These are the things you should note or review keep in mind *before* creating a new project:
+* TDSP Azure Machine Learning [Template](https://aka.ms/tdspamlgithubrepo)
 * Contents (other than what is there in the 'docs' folder) are required to be less than 25 Mb in size. See **NOTE** below.
 * The sample\_data folder is only for small data files (less than 5 Mb) with which you can test your code or do early development.
-* Storing files such as Office Word, PowerPoint etc. can increase the size of Docs folder substantially. Find a [SharePoint](https://products.office.com/en-us/sharepoint/collaboration), or other collaborative resource to store such files.
+* Storing files such as Office Word, PowerPoint etc. can increase the size of Docs folder substantially. We advise you to find a collaborative Wiki, [SharePoint](https://products.office.com/en-us/sharepoint/collaboration), or other collaborative resource to store such files.
 * For handling large files and outputs in Azure Machine Learning, read [this](http://aka.ms/aml-largefiles).
 
 **NOTE:** Please make sure other than the readme.md file, all documentation-related content (text, markdowns, images, other document files) that are NOT used during the project execution must reside in the folder named “docs” (all lowercase). This is a special folder ignored by Azure Machine Learning execution so that contents in this folder do not get copied to compute target unnecessarily. Objects in this folder also don’t count towards the 25 MB cap for project size, so you can store large image files needed in your documentation for example. They are still tracked by Git through Run History. 
