@@ -17,6 +17,7 @@ ms.date: 09/17/2017
 ms.author: bradsev
 
 ---
+<img src="./images/aml-gallery-tdsp-icon.png" width="180" height="120">
 
 # Structure Projects with Team Data Science Process Template
 
