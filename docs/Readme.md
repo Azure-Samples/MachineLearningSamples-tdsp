@@ -1,6 +1,6 @@
 # docs
 
-# Folder for hosting all documents for a Data Science Project
+## Folder for hosting all documents for a Data Science Project
 
 Documents should contain information about the following 
 
@@ -13,14 +13,14 @@ Documents should contain information about the following
 
 In this folder we store html or markdown reports:
 
-## docs/customer_docs:
+### docs/customer_docs:
 This is the folder gives us a single point to store documents from the customer related to this engagement. As the repo will become large if you store Word, ppt, etc. files (especially if these are changing over time), please only store final documents here and utilize another location such as a Sharepoint (or similar shared resource) for working documents of that nature.
 
-## docs/deliverable_docs:
+### docs/deliverable_docs:
 This folder gives us a single point to store deliverable documents related to this engagement. As the repo will become large if you store Word, ppt, etc. files (especially if these are changing over time), please only store final documents here and utilize another location such as a Sharepoint (or similar resource) for working documents of that nature.
 
-## docs/optional_templates
+### docs/optional_templates
 This folder has optional templates which may be used to document your project.
 
-## Notes:
+### Notes:
 Any notes you want to keep about the Docs
