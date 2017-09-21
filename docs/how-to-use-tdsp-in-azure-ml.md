@@ -67,7 +67,9 @@ Specify the parameters and information in the relevant boxes:
 - An empty Git repository path
 - Workspace name
 
-Then in the **Search** box, type in *TDSP*. When the **TDSP Template** shows up, click on it to select that template. Then click the **Create** button to create your new project with the TDSP structure. If you provide an empty Git repository during creating the project (in the appropriate box), then that repository will be populated with the project structure and contents after creation of the project.
+Then in the **Search** box, type in *TDSP*. When the **Structure a project with TDSP** shows up, click on it to select that template. Then click the **Create** button to create your new project with the TDSP structure. If you provide an empty Git repository during creating the project (in the appropriate box), then that repository will be populated with the project structure and contents after creation of the project.
+
+**NOTE:** The actual icon image may change.
 
 <img src="./images/instantiation-2.png" width="700" height="500">
 
