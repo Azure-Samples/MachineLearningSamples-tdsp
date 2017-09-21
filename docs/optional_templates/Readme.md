@@ -2,25 +2,34 @@
 
 ## Folder hosting optional data science project templates. 
 
-These templates can be used, as necessary for for documentation of your project. Some of these may be moved to customer 
+These templates can be used, as necessary for for documentation of your project. Some of these may be moved to customer docs or deliverable_docs. For example, project-charter may be prepared at the beginning of the project and shared with the customer as a deliverable. model-report may also be another stand-alone deliverable document, or information from this document may be included in the \/deliverable\_docs/ProjectReport.md.
 
-1. System architecture
-2. Data dictionaries
-3. Reports related to data understanding, modeling
-4. Project management and planning docs
-5. Information obtained from a business owner or client about the project
-6. Docs and presentations prepared to share information about hte project 
+Optional templates include:
 
-In this folder we store html or markdown reports:
+### project-charter.md
+This template helps to define business background, scope, metrics (KPIs - key performance indicators), success criteria, architecture, etc. This can be initially used with the customer to define the project as accurately as possible, and set expectations about deliverables and success criteria.
 
-### docs/customer_docs:
-This is the folder gives us a single point to store documents from the customer related to this engagement. As the repo will become large if you store Word, ppt, etc. files (especially if these are changing over time), please only store final documents here and utilize another location such as a Sharepoint (or similar shared resource) for working documents of that nature.
+### data-dictionaries.md
+This document provides the descriptions of the data that is provided by the client. As appropriate, this may be placed in customer_docs.
 
-### docs/deliverable_docs:
-This folder gives us a single point to store deliverable documents related to this engagement. As the repo will become large if you store Word, ppt, etc. files (especially if these are changing over time), please only store final documents here and utilize another location such as a Sharepoint (or similar resource) for working documents of that nature.
+### Raw-Data-Dictionary.csv
+This file should contain information about raw data files, and all the fields in these files. For example, column name, variable type, variable range etc. One file may be prepared for each raw data file.
 
-### docs/optional_templates
-This folder has optional templates which may be used to document your project.
+### data-definition.md
+Data and feature definitions. 
+NOTE: In this file, links need to be replace by links your data sets.
+
+### DataPipelines.txt
+Describe the data pipeline and provide a logical diagram. List how frequently the data is moved - real time/stream, near real time, batched with frequency etc.
+
+### data-summary-report.md
+This file may be generated for each data file received or processed. The [Interactive Data Exploration, Analysis, and Reporting (IDEAR)](https://github.com/Azure/Azure-TDSP-Utilities) utility can help you explore and visualize the data in an interactive way, and generate the data report along with the process of exploration and visualization.
+
+### model-report.md
+Report describing the final model to be delivered - typically comprised of one or more of the models built during the life of the project.
+
+### project-exit-report.md
+This is a report (alternative to the /docs/deliberable_docs/ProjectReport.md) that can be used as a deliverable final report to the customer.
 
 ### Notes:
 Any notes you want to keep about the Docs
