@@ -8,8 +8,8 @@
 
 This repository contains an instantiation of the [**Team Data Science Process (TDSP) from Microsoft**](https://github.com/Azure/Microsoft-TDSP) for project **Azure Machine Learning**. The TDSP is an agile, iterative, data science methodology designed to improve team collaboration and learning. It facilitates better coordinated and more productive data science enterprises by providing:
 
-- a lifecycle that defines the steps in project development [[link]](https://github.com/Azure/Microsoft-TDSP/blob/master/Docs/lifecycle-detail.md)
-- a standard project structure [[link]](https://github.com/Azure/Azure-TDSP-ProjectTemplate)
+- a [lifecycle](https://github.com/Azure/Microsoft-TDSP/blob/master/Docs/lifecycle-detail.md) that defines the steps in project development 
+- a [standard project structure](https://github.com/Azure/Azure-TDSP-ProjectTemplate)
 - artifact templates for reporting
 - tools to assist with data science tasks and project execution
 
