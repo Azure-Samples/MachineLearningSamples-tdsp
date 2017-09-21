@@ -1,4 +1,4 @@
-0# TDSP Project Dashboard
+# TDSP Project Dashboard
 <img src="./docs/images/aml-gallery-tdsp-icon.png" width="250" height="150">
 
 #### This is the project dashboard where you put key project information (for example, a project summary, with relevant links). In your actual project, replace the rest of the content with project-specific summary.
