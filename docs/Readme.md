@@ -20,7 +20,7 @@ This is the folder gives us a single point to store documents from the customer 
 This folder gives us a single point to store deliverable documents related to this engagement. As the repo will become large if you store Word, ppt, etc. files (especially if these are changing over time), please only store final documents here and utilize another location such as a Sharepoint (or similar resource) for working documents of that nature.
 
 ### docs/optional_templates
-This folder has optional templates which may be used to document your project.
+This folder has optional templates which may be used to document your project. If these templates are not used in a project, this folder may be deleted from your project.
 
 ### Notes:
 Any notes you want to keep about the Docs
