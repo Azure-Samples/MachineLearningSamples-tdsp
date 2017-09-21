@@ -1,7 +1,7 @@
 # TDSP Project Dashboard
 <img src="./docs/images/aml-gallery-tdsp-icon.png" width="250" height="150">
 
-#### This is the project dashboard where you put key project information (for example, a project summary, with relevant links). In your actual project, replace the rest of the content with project-specific summary.
+#### This is the project dashboard where you put key project information (for example, a project summary, with relevant links). In your actual project, replace the rest of the content with project-specific (executive) summary.
 
 
 ## Team Data Science Process From Microsoft (TDSP)
