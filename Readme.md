@@ -1,6 +1,4 @@
 # TDSP Project Dashboard
-<img src="./docs/images/aml-gallery-tdsp-icon.png" width="250" height="150">
-![TDSP](./docs/images/aml-gallery-tdsp-icon.png) 
 
 ## Summary
 **TDSP Project Dashboard**
@@ -28,10 +26,7 @@ We provide [instructions on how to instantiate and use TDSP in Azure Machine Lea
 ## The Data Science Lifecycle 
 TDSP uses the data science lifecycle to structure projects. The lifecycle defines the steps that a project typically must execute, from start to finish. This lifecycle is valid for data science projects that build data products and intelligent applications that include predictive analytics. The goal is to incorporate machine learning or artificial intelligence (AI) models into commercial products. Exploratory data science projects or ad hoc/on-off analytics projects can also use this process, but in this case some steps of this lifecycle may not be needed.    
 
-Here is a depiction of the TDSP lifecycle. 
-
-<img src="./docs/images/tdsp-lifecycle.jpg" width="800" height="600">
-
+Here is a depiction of the [TDSP lifecycle](https://github.com/Azure/Microsoft-TDSP/blob/master/Docs/lifecycle-detail.md). 
 
 The TDSP data science lifecycle is composed of four major stages that are executed iteratively. This includes:
 
