@@ -1,5 +1,6 @@
 # TDSP Project Dashboard
 <img src="./docs/images/aml-gallery-tdsp-icon.png" width="250" height="150">
+![TDSP](/docs/images/aml-gallery-tdsp-icon.png) 
 
 ## Summary
 **TDSP Project Dashboard**
