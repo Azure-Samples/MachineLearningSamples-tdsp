@@ -13,5 +13,5 @@ dependencies:
   - pip:
     # The API for Azure Machine Learning Model Management Service.
     # Details: https://github.com/Azure/Machine-Learning-Operationalization
-    - azure-ml-api-sdk==0.1.0a9
+    - azure-ml-api-sdk==0.1.0a11
    
